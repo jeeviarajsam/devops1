@@ -1,4 +1,4 @@
-sudo apt update
-sudo apt install apache2 -y
-sudo -i
-echo "<h1> this is for testing </h1>" > /var/www/html/index.html
+git add .
+git commit -m "this commit from jeevi"
+git status
+git push origin jeevi
